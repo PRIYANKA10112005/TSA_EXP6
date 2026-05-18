@@ -72,11 +72,22 @@ DECOMPOSED PLOT:
 
 <img width="630" height="470" alt="image 2" src="https://github.com/user-attachments/assets/734a7445-fa56-4dec-a060-60d4e3d6c127" />
 
+
+
 TEST PREDICTION:
 
 
 <img width="547" height="435" alt="image 3" src="https://github.com/user-attachments/assets/50979629-a026-45ee-8b73-d1138ed4d337" />
 
+MODEL PERFORMANCE METRICES:
+```
+RMSE:
+0.4100462381471662
+
+STANDARD DEVIATION AND MEAN:
+Standard Deviation of scaled data: 0.3172006850006865
+Mean of scaled data: 3.331072208493028
+```
 FINAL PREDICTION:
 
 
