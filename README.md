@@ -63,15 +63,23 @@ ax.set_title('Prediction')
 ```
 ### OUTPUT:
 SCALED_DATA PLOT:
+
+
 <img width="582" height="449" alt="image 1" src="https://github.com/user-attachments/assets/68fb5819-ff8e-4835-9153-8bbdecff8591" />
 
 DECOMPOSED PLOT:
+
+
 <img width="630" height="470" alt="image 2" src="https://github.com/user-attachments/assets/734a7445-fa56-4dec-a060-60d4e3d6c127" />
 
 TEST PREDICTION:
+
+
 <img width="547" height="435" alt="image 3" src="https://github.com/user-attachments/assets/50979629-a026-45ee-8b73-d1138ed4d337" />
 
 FINAL PREDICTION:
+
+
 <img width="589" height="471" alt="image 4" src="https://github.com/user-attachments/assets/6b929692-8e0a-46fb-a83a-c4d1ee85a453" />
 
 
